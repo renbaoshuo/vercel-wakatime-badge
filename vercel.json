@@ -1,0 +1,15 @@
+{
+    "routes": [
+        {
+            "src": "/badge",
+            "dest": "/api/badge.ts"
+        },
+        {
+            "src": "/",
+            "status": 302,
+            "headers": {
+                "Location": "https://github.com/renbaoshuo/vercel-wakatime-badge"
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "author": "Baoshuo <i@baoshuo.ren>",
+    "private": true,
+    "dependencies": {
+        "@vercel/node": "^1.14.0",
+        "node-fetch": "2"
+    },
+    "devDependencies": {
+        "typescript": "^4.6.3"
+    }
+}
